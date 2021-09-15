@@ -1,1 +1,1 @@
-
+Java je objektno-orijentisani jezik.
