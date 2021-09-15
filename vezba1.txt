@@ -1,1 +1,2 @@
 Java je objektno-orijentisani jezik.
+Razvila ga je kompanija Sun Microsystems.
